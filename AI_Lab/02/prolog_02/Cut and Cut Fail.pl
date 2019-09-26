@@ -1,0 +1,1 @@
+loves(chuck, X) :- female(X), !, rich(X).

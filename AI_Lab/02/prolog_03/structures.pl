@@ -1,0 +1,1 @@
+loves(chuck, X) =.. [loves, chuck, X] % list to structure
